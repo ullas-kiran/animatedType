@@ -1,6 +1,6 @@
 {
   "name": "@ullas-kiran/animatedtyping",
-  "version": "2.21.0",
+  "version": "2.21.1",
   "description": "React animated typing effect component. Forked and improved from typewriter-effect.",
   "main": "dist/react.js",
   "types": "index.d.ts",
